@@ -17,3 +17,6 @@ with col2:
     '''
     st.info(content)
 
+    content2 = "Below are some of the apps that I have built!"
+    st.info(content2)
+
